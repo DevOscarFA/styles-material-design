@@ -1,0 +1,17 @@
+mdlComponentHandler = require('./material-design/mdlComponentHandler.js');
+button = require('./material-design/button.js');
+checkbox = require('./material-design/checkbox.js');
+dataTable = require('./material-design/data-table.js');
+iconToggle = require('./material-design/icon-toggle.js');
+layout = require('./material-design/layout.js');
+menu = require('./material-design/menu.js');
+progress = require('./material-design/progress.js');
+radio = require('./material-design/radio.js');
+ripple = require('./material-design/ripple.js');
+slider = require('./material-design/slider.js');
+snackbar = require('./material-design/snackbar.js');
+spinner = require('./material-design/spinner.js');
+switchJS = require('./material-design/switch.js');
+tabs = require('./material-design/tabs.js');
+textfield = require('./material-design/textfield.js');
+tooltip = require('./material-design/tooltip.js');
